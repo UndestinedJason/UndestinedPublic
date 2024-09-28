@@ -1,0 +1,14 @@
+{
+  "word1": {
+    "shortDefinition": "Definition 1 goes here.",
+    "longDefinition": "Detailed explanation for word1 goes here. This can include more in-depth details or links."
+  },
+  "word2": {
+    "shortDefinition": "Definition 2 goes here.",
+    "longDefinition": "Detailed explanation for word2 goes here. This can include more in-depth details or links."
+  },
+  "word3": {
+    "shortDefinition": "Definition 3 goes here.",
+    "longDefinition": "Detailed explanation for word3 goes here. This can include more in-depth details or links."
+  }
+}
