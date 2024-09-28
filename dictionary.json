@@ -10,5 +10,41 @@
   "word3": {
     "shortDefinition": "Definition 3 goes here.",
     "longDefinition": "Detailed explanation for word3 goes here. This can include more in-depth details or links."
+  },
+  "Channel": {
+    "shortDefinition": "A cast ability maintained by concentration each round.",
+    "longDefinition": "Channeled abilities only require a cast roll to begin the effect and the effect is maintained each round as long as the character holds their concentration. This would require a primary and secondary action each round the character wishes to maintain the channel. If the character is hit by an attack while channeling that causes IE, they must immediately make a new cast roll to maintain the channel."
+  },
+  "Counter-Attack": {
+    "shortDefinition": "An attack after critically evading an incoming attack.",
+    "longDefinition": "An attack granted immediately after critically evading an incoming attack. This attack is rolled normally with full bonuses, but no special abilities can be used with a Counter-Attack. Multiple Counter-Attacks can be performed in a single round."
+  },
+  "Critical Strike": {
+    "shortDefinition": "A successful attack dealing maximum and normal damage.",
+    "longDefinition": "An Attack that is supremely successful. 'Crits' are generally associated with high dice rolls. In general, a Critical Strike results in increasing the effect of the skill or ability used. For d20 attacks, a natural 20 is a Critical Strike unless you have an ability that states otherwise. Critical Strikes deal max dice damage plus normal damage. For example, a critical strike with an attack that deals 1d12 + 6 damage would deal 12 + 1d12 + 6 damage, and a Critical Strike with an attack that normally deals 2d8 + 20 damage would deal 16 + 2d8 + 20 damage."
+  },
+  "Defensive Action": {
+    "shortDefinition": "A primary action used to dodge, parry, or block attacks.",
+    "longDefinition": "This is a Primary Action in which the character dedicates her Action to watching for incoming attacks and is thus able to attempt to avoid them by dodging, parrying with a weapon, or blocking with a shield. This Primary Action does not happen before or after any Secondary Actions, but rather throughout the entire round. It is important to note in which direction you are facing, since you cannot avoid attacks that you do not see coming. A Secondary Action can also be used to evade attacks, but at more severe penalties. If a Primary Action is used defensively, you only suffer a minus 1 to all subsequent attempts to evade after the first. If a Secondary Action is used defensively, you suffer a minus 3 to all subsequent attacks after the first."
+  },
+  "Dodge": {
+    "shortDefinition": "A secondary action used to avoid an attack.",
+    "longDefinition": "This is an attempt to avoid an attack and requires a Secondary Action. A Dodge can be attempted by any player who chooses to reserve their Secondary Action for such a purpose. If the dodge is successful, the player completely avoids the attack. Characters with a bonus to Dodge can attempt to Dodge a number of attacks equal to that bonus per Round in a single Secondary Action. They also get to add their Dodge bonus into their Dodge roll. Any subsequent Dodge attempts after the first gain a stacking minus 3 per additional Dodge attempt per Round unless using a Defensive Primary Action. Dodging is a contested d20 roll. If the Dodge roll is equal to or higher than the attack roll, the Dodge is successful. Critical Strikes can only be Dodged with Critical Dodge rolls. A natural 20 is considered a Critical Dodge unless otherwise stated in your class. Critically Dodging an attack grants the player a Counter-Attack."
+  },
+  "Duration": {
+    "shortDefinition": "The length of time an effect lasts.",
+    "longDefinition": "This is the length of time that an effect will last. In combat, durations are typically given in a number of rounds. Out of combat, durations can be given in seconds, minutes, hours, days, etc. For combat purposes, any ability that is active during any part of any round loses one round of duration even if it does not have an effect during that round. For example, if a War Cry is used to empower your allies at an initiative of 1, even if none of your allies are able to reap the benefits of that War Cry during that round, that still counts as its first round of duration. Abilities with durations also expire on the final round of the duration at the very end of that round."
+  },
+  "Evade": {
+    "shortDefinition": "Any action used to avoid incoming attacks.",
+    "longDefinition": "This is the term used to describe any action that attempts to evade incoming attacks. Examples include dodging, parrying, and blocking."
+  },
+  "Initiative": {
+    "shortDefinition": "Determines the order of action based on a d20 roll.",
+    "longDefinition": "Initiative determines the order in which each character’s action finishes. This is determined by a d20 roll. Higher initiatives go first. If any pluses bring this roll above 20, you gain a bonus of the total initiative minus 20 to the next round's initiative. This bonus cannot go above 10 and cannot be gained any round the character is not acting (due to being stunned, shapeshifting, waiting after a berserk, or any other reason) as you do not roll an initiative in these situations. If a character has multiple Initiative rolls in one round, they can only gain this bonus from the highest roll; multiple initiatives above 20 in a single round do not add up. If any minuses bring this number below 1, that character is unable to act on that round."
+  },
+  "Instant Action": {
+    "shortDefinition": "An ability used alongside primary, secondary, or spell actions.",
+    "longDefinition": "Some abilities can be performed as an Instant Action and as such can be used along with Primary, Secondary, and Spell Casting actions. Any number of different Instants can be used within a single Action, but no one Instant can be used multiple times in a single round."
   }
 }
